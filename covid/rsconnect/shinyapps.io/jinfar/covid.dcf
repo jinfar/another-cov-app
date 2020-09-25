@@ -5,8 +5,8 @@ account: jinfar
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2041321
-bundleId: 3085083
+bundleId: 3540521
 url: https://jinfar.shinyapps.io/covid/
-when: 1588236716.78819
+when: 1597984857.14265
 asMultiple: FALSE
 asStatic: FALSE
